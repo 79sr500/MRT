@@ -1,0 +1,13 @@
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\ReportLibrary.dll
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\ToolLibrary.dll
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\ReportLibrary.pdb
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\ToolLibrary.pdb
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\mrt.exe.manifest
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\mrt.application
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\mrt.exe
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\bin\Release\mrt.pdb
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\obj\x86\Release\mrt.exe.manifest
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\obj\x86\Release\mrt.application
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\obj\x86\Release\mrt.exe
+C:\Documents and Settings\Villages\My Documents\Visual Studio 2010\Projects\MonitorReportsAndTools\MonitorReportsAndTools\obj\x86\Release\mrt.pdb
